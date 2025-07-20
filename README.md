@@ -25,9 +25,9 @@ RIEBER memiliki tiga fitur utama dalam sistem penghitung waktunya, yaitu sebagai
 Untuk menggunakan RIEBER, cukup mengunjungi tautan berikut: https://rieber.netlify.app/
 
 ### AI Support Explanation
-Dalam proses pengembangan proyek ini, AI terlibat dalam memberikan bantuan teknis, seperti logika pengkodean. Platform AI yang digunakan adalan IBM Granite. Cara penggunaan yang pengembang lakukan adalah dengan memberikan prompt se-spesifik mungkin untuk mencapai output yang diinginkan, seperti “Buatkan kode yang dapat memunculkan bunyi bel ketika waktu telah mencapai 0 dan alert muncul. 
+Dalam proses pengembangan proyek ini, AI terlibat dalam memberikan bantuan teknis, seperti logika pengkodean. Platform AI yang digunakan adalan IBM Granite. Cara penggunaan yang pengembang lakukan adalah dengan memberikan prompt se-spesifik mungkin untuk mencapai output yang diinginkan, seperti “Buatkan kode yang dapat memunculkan bunyi bel ketika waktu telah mencapai 0 dan alert muncul. Hal ini untuk membantu pengguna dapat mengetahui bahwa timer telah selesai melalui suara bel tanpa perlu melihat tampilan notifikasi di layar (Pengguna bisa saja terlalu fokus membaca, sehingga tidak melihat layar memunculkan notifikasi waktu telah habis)”. 
 
-Hal ini untuk membantu pengguna dapat mengetahui bahwa timer telah selesai melalui suara bel tanpa perlu melihat tampilan notifikasi di layar (Pengguna bisa saja terlalu fokus membaca, sehingga tidak melihat layar memunculkan notifikasi waktu telah habis)”. Berikut pemanfaatan AI dalam pengembangan proyek ini, yaitu:
+Berikut pemanfaatan AI dalam pengembangan proyek ini, yaitu:
 - Memberikan kode untuk integrasi suara bel saat waktu habis.
 - Menyempurnakan alur interaksi pengguna pada alert dan event handler
 - Membantu dalam proses dokumentasi (in-line documentation) pada kode
