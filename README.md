@@ -32,6 +32,7 @@ RIEBER memiliki tiga fitur utama dalam sistem penghitung waktunya, yaitu sebagai
 3. Tombol Reset untuk mengembalikan timer ke 10 menit. Ketika tombol reset ditekan, pengatur waktu akan memulai kembali dari awal.
 
 ### Setup Instructions
+Untuk menggunakan RIEBER, cukup mengunjungi tautan berikut: https://rieber.netlify.app/
 
 ### AI Support Explanation
 Dalam proses pengembangan proyek ini, AI terlibat dalam memberikan bantuan teknis, seperti logika pengkodean. Platform AI yang digunakan adalan IBM Granite. Cara penggunaan yang pengembang lakukan adalah dengan memberikan prompt se-spesifik mungkin untuk mencapai output yang diinginkan, seperti “Buatkan kode yang dapat memunculkan bunyi bel ketika waktu telah mencapai 0 dan alert muncul. 
